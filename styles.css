@@ -266,7 +266,7 @@ p{
     padding: 12px 0;
     background-color: var(--mint);
     color: var(--dk-gray);
-    margin-top: 32px;
+    margin-top: auto;
 }
 
 /* Contact Section */
